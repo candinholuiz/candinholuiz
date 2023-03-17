@@ -1,6 +1,6 @@
 # sobre mim:
 
-- **oi,eu sou o @candinholuiz**
+- **oi,eu sou o @luiz**
 - **👀 estou interessado em fazer sites 
 - **estou estudando javascript , HTML css 
 - **no meu tempo livre eu mexo no celular e  fasso outras coisas pessoal
